@@ -1,6 +1,6 @@
-# Noi Configs
+# Configs
 
-## Noi Mode
+## Mode
 
 To set up a custom sync link, follow the steps below:
 
